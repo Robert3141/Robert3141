@@ -1,5 +1,5 @@
 
-| ![repo stats][repoStats] |![langauge stats][languageStats] |
+| [![repo stats][repoStats]](https://github.com/Robert3141/) | [![langauge stats][languageStats]](https://github.com/Robert3141/) |
 | - | - |
 
 [repoStats]: https://github-readme-stats.vercel.app/api?username=Robert3141&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
