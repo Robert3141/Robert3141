@@ -1,7 +1,3 @@
-
-| [![repo stats][repoStats]][website] | [![langauge stats][languageStats]][website] |
-| - | - |
-
 ## Flutter Apps
 
 | [![Connectron][connectron]][connectron-repo] | [![Flashcards][flashcards]][flashcards-repo] |
@@ -11,6 +7,10 @@
 
 | [![Client Server LAN][client_server_lan]][client_server_lan-repo] | [![Prefs Extension][prefs_extension]][prefs_extension-repo] |
 | - | - |
+
+## Metrics
+
+![Metrics](https://metrics.lecoq.io/Robert3141?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)
 
 [website]: https://robert3141.github.io
 [repoStats]: https://github-readme-stats.vercel.app/api?username=Robert3141&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
