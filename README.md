@@ -10,8 +10,8 @@
 
 ## Android ROMs
 
-| [![local_manifest][local_manifests]][local_manifests-repo] |
-| - |
+| [![local_manifest][local_manifests]][local_manifests-repo] | [![device_xiaomi_alioth][device_alioth]][device_alioth-repo] |
+| - | - |
 
 ## Metrics
 
@@ -29,6 +29,8 @@
 [client_server_lan-repo]: https://github.com/Robert3141/client_server_lan
 [local_manifests]:https://github-readme-stats.vercel.app/api/pin/?username=Robert3141&repo=local_manifests
 [local_manifests-repo]: https://github.com/Robert3141/local_manifests
+[device_alioth]:https://github-readme-stats.vercel.app/api/pin/?username=Robert3141&repo=device_xiaomi_alioth
+[device_alioth-repo]:https://github.com/Robert3141/device_xiaomi_alioth
 
 
 [prefs_extension]: https://github-readme-stats.vercel.app/api/pin/?username=Robert3141&repo=shared_preferences_moretypes
