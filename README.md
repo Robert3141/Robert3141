@@ -27,16 +27,16 @@
 
 ## <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/> ROMs
 
-- [Alioth device tree](https://github.com/Robert3141/device_xiaomi_alioth)
-- [sm8250 device tree](https://github.com/Robert3141/device_xiaomi_sm8250)
-- [local_manifests](https://github.com/Robert3141/local_manifests)
-- [Alioth vendor old](https://github.com/Robert3141/vendor_xiaomi_alioth-old)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[Alioth device tree](https://github.com/Robert3141/device_xiaomi_alioth)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[sm8250 device tree](https://github.com/Robert3141/device_xiaomi_sm8250)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[local_manifests](https://github.com/Robert3141/local_manifests)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[Alioth vendor old](https://github.com/Robert3141/vendor_xiaomi_alioth-old)
 
 ## Other
 
-- [Linux setup script](https://github.com/Robert3141/linux-setup)
-- [Robert3141](https://github.com/Robert3141/Robert3141)
-- [My Website](https://github.com/Robert3141/Robert3141.github.io) Actual Website: [Here](https://www.Robert3141.github.io)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="" width="20" height="20"/>&nbsp;[Linux setup script](https://github.com/Robert3141/linux-setup)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown" alt="" width="20" height="20"/>&nbsp;[Robert3141](https://github.com/Robert3141/Robert3141)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="" width="20" height="20"/>&nbsp;[My Website](https://github.com/Robert3141/Robert3141.github.io) Actual Website: [Here](https://www.Robert3141.github.io)
 
 ### Metrics
 
