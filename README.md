@@ -1,12 +1,23 @@
+### Favourite Langs
+
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+ <!--System Verilog-->
+ <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+ 
+ 
+</div>
+
 # Repos
 
-#### Languages / Cateogries
-
- - [Flutter / Dart](#flutter--dart)
- - [Android](#android-roms)
- - [Other](#other)
-
-## Flutter / Dart
+## <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> / <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
 
 - [Client Server LAN](https://github.com/Robert3141/client_server_lan)
 - [Connectron Game](https://github.com/Robert3141/Connectron)
@@ -15,7 +26,7 @@
 - [Flashcards App](https://github.com/Robert3141/Flashcards-App)
 - [Shared Prefs Extended](https://github.com/Robert3141/shared_preferences_moretypes)
 
-## Android ROMs
+## <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/> ROMs
 
 - [Alioth device tree](https://github.com/Robert3141/device_xiaomi_alioth)
 - [sm8250 device tree](https://github.com/Robert3141/device_xiaomi_sm8250)
