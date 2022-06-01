@@ -30,10 +30,11 @@
 
 ### Metrics
 
-[![Metrics](https://metrics.lecoq.io/Robert3141?template=classic&followup=1&isocalendar=1&languages=1&languages.ignored=javascript&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)](https://robert3141.github.io/)
-
+<!--[![Metrics](https://metrics.lecoq.io/Robert3141?template=classic&followup=1&isocalendar=1&languages=1&languages.ignored=javascript&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)](https://robert3141.github.io/)-->
 
 [![Metrics2](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert3141&theme=highcontrast&layout=compact&hide=javascript)](https://robert3141.github.io/)
+
+[![Metrics3](/github-metrics.svg)](https://robert3141.github.io/)
 
 [website]: https://robert3141.github.io
 [repoStats]: https://github-readme-stats.vercel.app/api?username=Robert3141&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
