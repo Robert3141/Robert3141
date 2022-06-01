@@ -18,12 +18,12 @@
 
 ## <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> / <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>
 
-- [Client Server LAN](https://github.com/Robert3141/client_server_lan)
-- [Connectron Game](https://github.com/Robert3141/Connectron)
-- [Cosmocannons Game](https://github.com/Robert3141/cosmocannons)
-- [Draw Arrow on canvas](https://github.com/Robert3141/draw_arrow)
-- [Flashcards App](https://github.com/Robert3141/Flashcards-App)
-- [Shared Prefs Extended](https://github.com/Robert3141/shared_preferences_moretypes)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="" width="20" height="20"/>&nbsp;[Client Server LAN](https://github.com/Robert3141/client_server_lan)
+- <img src="https://raw.githubusercontent.com/Robert3141/Connectron/master/LOGO/Connectron%20Logo.svg" title="Flutter" alt="" width="20" height="20"/>&nbsp;[Connectron Game](https://github.com/Robert3141/Connectron)
+- <img src="https://raw.githubusercontent.com/Robert3141/cosmocannons/master/LOGO/ic_product_icon_192px_foregroundx.svg" title="Flutter" alt="" width="20" height="20"/>&nbsp;[Cosmocannons Game](https://github.com/Robert3141/cosmocannons)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="" width="20" height="20"/>&nbsp;[Draw Arrow on canvas](https://github.com/Robert3141/draw_arrow)
+- <img src="https://github.com/Robert3141/Flashcards-App/blob/master/web/icons/Icon-512.png?raw=true" title="Flutter" alt="" width="20" height="20"/>&nbsp;[Flashcards App](https://github.com/Robert3141/Flashcards-App)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="" width="20" height="20"/>&nbsp;[Shared Prefs Extended](https://github.com/Robert3141/shared_preferences_moretypes)
 
 ## <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/> ROMs
 
