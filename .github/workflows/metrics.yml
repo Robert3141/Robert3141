@@ -9,9 +9,11 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    enviroment:
+      name: production
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: Robert3141/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
