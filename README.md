@@ -40,7 +40,7 @@
 
 ### Metrics
 
-<!--[![Metrics](https://metrics.lecoq.io/Robert3141?template=classic&followup=1&isocalendar=1&languages=1&languages.ignored=javascript&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)](https://robert3141.github.io/)-->
+[![](https://metrics.lecoq.io/Robert3141?template=classic&followup=1&isocalendar=1&languages=1&languages.ignored=javascript&isocalendar.duration=half-year&config.timezone=Europe%2FLondon)](https://robert3141.github.io/)
 
 [![Metrics2](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert3141&theme=highcontrast&layout=compact&hide=javascript)](https://robert3141.github.io/)
 
