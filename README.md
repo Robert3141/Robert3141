@@ -25,6 +25,13 @@
 - <img src="https://github.com/Robert3141/Flashcards-App/blob/master/web/icons/Icon-512.png?raw=true" title="Flutter" alt="" width="20" height="20"/>&nbsp;[Flashcards App](https://github.com/Robert3141/Flashcards-App)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="" width="20" height="20"/>&nbsp;[Shared Prefs Extended](https://github.com/Robert3141/shared_preferences_moretypes)
 
+## <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> / <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
+
+- <img src="https://avatars.githubusercontent.com/u/96692659?s=200&v=4" title="SUHPA" alt="" width="20" height="20"/>&nbsp;[BINGU HPA Flight Computer](https://github.com/SUHPA-Software/BINGU-FMS)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="" width="20" height="20"/>&nbsp;[Wind Ultrasound (Private)](https://github.com/Robert3141/WindUltrasound)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="" width="20" height="20"/>&nbsp;[Embedded Wireless Protocol Stack (Private)](https://github.com/Robert3141/NetworkArchitecture)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="" width="20" height="20"/>&nbsp;[Pipelined MIPs Simulator (Private)](https://github.com/Robert3141/MIPsAssemble)
+
 ## <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/> ROMs
 
 - <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[Alioth device tree](https://github.com/Robert3141/device_xiaomi_alioth)
