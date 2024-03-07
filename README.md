@@ -37,7 +37,7 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[Alioth device tree](https://github.com/Robert3141/device_xiaomi_alioth)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[sm8250 device tree](https://github.com/Robert3141/device_xiaomi_sm8250)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[local_manifests](https://github.com/Robert3141/local_manifests)
-- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[Alioth vendor old](https://github.com/Robert3141/vendor_xiaomi_alioth-old)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="" width="20" height="20"/>&nbsp;[Alioth vendor old (Archived)](https://github.com/Robert3141/vendor_xiaomi_alioth-old)
 
 ## Other
 
