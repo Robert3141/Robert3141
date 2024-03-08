@@ -43,7 +43,7 @@
 
 - <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="" width="20" height="20"/>&nbsp;[Linux setup script](https://github.com/Robert3141/linux-setup)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown" alt="" width="20" height="20"/>&nbsp;[Robert3141](https://github.com/Robert3141/Robert3141)
-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="" width="20" height="20"/>&nbsp;[My Website](https://github.com/Robert3141/Robert3141.github.io) Actual Website: [Here](https://www.Robert3141.github.io)
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="" width="20" height="20"/>&nbsp;[My Website](https://github.com/Robert3141/Robert3141.github.io) Actual Website: [Here](https://Robert3141.github.io)
 
 ### Metrics
 
