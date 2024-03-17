@@ -24,6 +24,7 @@
 - <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="" width="20" height="20"/>&nbsp;[Draw Arrow on canvas](https://github.com/Robert3141/draw_arrow)
 - <img src="https://github.com/Robert3141/Flashcards-App/blob/master/web/icons/Icon-512.png?raw=true" title="Flutter" alt="" width="20" height="20"/>&nbsp;[Flashcards App](https://github.com/Robert3141/Flashcards-App)
 - <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="" width="20" height="20"/>&nbsp;[Shared Prefs Extended](https://github.com/Robert3141/shared_preferences_moretypes)
+- <img src="https://github.com/PowerfulBacon/Fusion-Hackathon-2024/blob/main/Icon/logo512.png" title="Fusion Clock" alt="" width="20" height="20"/>&nbsp;[Fusion Clock (ECSS Hackathon 2024)](https://github.com/PowerfulBacon/Fusion-Hackathon-2024)
 
 ## <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> / <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
 
